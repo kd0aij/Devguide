@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Getting Started
+* [Getting Started](getting-started.md)
   * [Initial Configuration](starting-initial-config.md)
   * [Toolchain Installation](starting-installing.md)
     * [Mac OS](starting-installing-mac.md)
@@ -87,7 +87,6 @@
   * [UART](uart-intro.md)
     * [uLanding Radar](uart-ulanding-radar.md)
 * Debugging and Advanced Topics
-
   * [FAQ](advanced-faq.md)
   * [System Console](advanced-system-console.md)
   * [System Boot](advanced-system-startup.md)
@@ -108,10 +107,10 @@
   * [Out-of-tree Modules](advanced-out-of-tree-modules.md)
   * [ULog File Format](advanced-ulog-file-format.md)
   * [Licenses](advanced-licenses.md)
-
 * [Software Update](software_update.md)
   * [STM32 Bootloader](stm32_bootloader.md)
 * [Testing and CI](testing-and-ci.md)
   * [Docker Containers](advanced-docker.md)
   * [Continuous Integration](advanced-ci.md)
     * [Jenkins Continuous Integration](advanced-jenkins-ci.md)
+
